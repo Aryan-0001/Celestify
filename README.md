@@ -25,16 +25,6 @@ The goal of Celestify is to provide:
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Flutter & Dart**
-- **Astronomy API**
-- **AI (Gemini/OpenAI) API**
-- **Voice & Location Plugins**
-
-
----
-
 ## 🙌 Contributions
 
 Right now, the repo is mainly for prototyping — but feedback, ideas, and improvements are always welcome. Feel free to open issues or start a discussion!
