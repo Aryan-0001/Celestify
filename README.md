@@ -35,7 +35,7 @@ The goal of Celestify is to provide:
 ## 🚀 Getting Started (Dev Build)
 
 ```bash
-git clone https://github.com/your-username/celestify.git
+git clone https://github.com/Aryan-0001/Celestify.git
 cd celestify
 flutter pub get
 flutter run
