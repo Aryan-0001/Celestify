@@ -35,3 +35,5 @@ Feedbacks, ideas, and improvements are always welcome. Feel free to contribute!
 ---
 
 ⭐ *Star the repo to follow its cosmic journey!*
+
+---
