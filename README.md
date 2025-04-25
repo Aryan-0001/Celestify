@@ -27,7 +27,7 @@ The goal of Celestify is to provide:
 
 ## 🙌 Contributions
 
-Right now, the repo is mainly for prototyping — but feedback, ideas, and improvements are always welcome. Feel free to open issues or start a discussion!
+Feedbacks, ideas, and improvements are always welcome. Feel free to contribute!
 
 ---
 
