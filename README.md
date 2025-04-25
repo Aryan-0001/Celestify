@@ -1,4 +1,6 @@
-# 🌌 Celestify (WIP)
+# Celestify (WIP)
+<img src="https://github.com/user-attachments/assets/e76ac3ea-b2fa-4cff-b6b1-30c0b91bd159" width="250" height="250" style="border-radius: 50" />
+
 
 **Celestify** is an early-stage astronomy app built with Flutter, aiming to become your smart stargazing companion. It's still in development and not yet fully functional — but big things are coming!
 
@@ -30,16 +32,6 @@ The goal of Celestify is to provide:
 - **AI (Gemini/OpenAI) API**
 - **Voice & Location Plugins**
 
----
-
-## 🚀 Getting Started (Dev Build)
-
-```bash
-git clone https://github.com/Aryan-0001/Celestify.git
-cd celestify
-flutter pub get
-flutter run
-```
 
 ---
 
