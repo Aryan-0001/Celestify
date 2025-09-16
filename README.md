@@ -1,4 +1,4 @@
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=USER.REPO)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Aryan-0001.Celestify)
 
 # Celestify (WIP)
 <img src="https://github.com/user-attachments/assets/e76ac3ea-b2fa-4cff-b6b1-30c0b91bd159" width="250" height="250" style="border-radius: 50" />
